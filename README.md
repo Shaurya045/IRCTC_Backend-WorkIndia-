@@ -1,4 +1,4 @@
-# IRCTC Backend Assignment for WORKINDIA
+# IRCTC Backend
 
 ## Overview
 
